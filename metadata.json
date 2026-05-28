@@ -1,0 +1,6 @@
+{
+  "name": "DJ Controller",
+  "description": "Profesional DJ Controller with dual decks, visual EQ knobs, vertical faders, crossfader, loop, pitch control, and Spotify background search & streaming capability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
